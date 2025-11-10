@@ -1,0 +1,220 @@
+.hhh{
+    background-image: url(covidimg.jpg);
+    height: 600px;
+    width: 100%;
+    background-size:cover ;
+}
+.hi{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    width: 500px;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 150px;
+
+}
+.bbb button{
+    height: 40px;
+    width: 170px;
+    font-size: 18px;
+    font-weight: bold;
+    color: lightcoral;
+    background-color: red;
+    outline: none;
+    cursor: pointer;
+    margin-top: -30px;
+    margin-left: 120px;
+    transition: .5s;
+}
+.bbb .btn{
+    margin-left: 25px;
+    background-color: white;
+    color: rgb(50, 50, 125);
+
+}
+.wt{
+    background-image: url(rectimg.png);
+    height:60% ;
+    width: 100%;
+    margin-left:100px;
+    background-size: 80%;
+    padding-top:90px ;
+    background-repeat: no-repeat;
+    position: relative;
+   
+}
+.ww{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.tt{
+    margin-left: 100px;
+
+}
+.more button{
+    height: 50px;
+    width: 180px;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(5, 5, 77);
+
+
+    
+}
+.bb{
+    background-image: url(virusimg.png);
+    position: absolute;
+    float: right;
+    height: 350px;
+    width: 400px;
+    background-size: 260px;
+    background-repeat: no-repeat;
+    margin-left: 640px;
+    }
+.kk{
+    background-image: url(virus1.png);
+    position: absolute;
+    float:right;
+    height: 100px;
+    width: 70px;
+    background-size: 60px;
+    background-repeat: no-repeat;
+    margin-left: 580px;
+    margin-top: 180px;
+
+}    
+.ly{
+    background-image: url(layer.png);
+    height: 350px;
+    width: 400px;
+    background-size: 350px;
+    background-repeat: no-repeat;
+    margin-top: 280px;
+    margin-left:220px ;
+
+
+}
+.cv{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-left: 700px;
+    margin-top: -400px;
+
+}
+.vc{
+    margin-left: 700px;
+    margin-top: -10px;
+
+}
+.rd button{
+    height: 50px;
+    width: 180px;
+    color: white;
+    outline: none;
+    font-weight: bold;
+    background-color: rgb(5, 5, 77);
+    margin-left: 700px;
+    margin-top:30px;
+}
+.h1{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom:40px;
+    text-align: center;
+}
+.your{
+    position:absolute;
+    height: 400px;
+    width: 900px;
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    margin-left:160px;
+    border-radius:60px;
+    border:solid black 1px;
+
+}
+.row{
+    border-radius: 50%;
+}
+.colum1{
+    float: left;
+    height: 250px;
+    width: 27%;
+    border-radius: 10%;
+    background-color: white;
+    margin: 30px;
+    margin-top: -40px;
+    margin-left: 70px;
+}
+.colum2{
+    float: left;
+    height: 250px;
+    width: 27%;
+    border-radius: 10%;
+    background-color: white;
+    margin: 10px;
+    margin-top: -40px;
+    margin-left: -5px;
+    
+}
+.colum3{
+    float: left;
+    height: 250px;
+    width: 27%;
+    border-radius: 10%;
+    background-color: white;
+    margin: 10px;
+    margin-top: -40px;
+}
+.cases{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 450px;
+    text-align: center;
+    
+
+}
+.case1{
+    float: left;
+    height: 300px;
+    width: 23%;
+    background-color:rgb(242, 233, 233);
+    box-shadow: 10px 10px 12px 15px rgb(247, 245, 245);
+    margin: 30px;
+    margin-top: -10px;
+    margin-left: 100px;
+
+}.case2{
+    float: left;
+    height: 300px;
+    width: 23%;
+    background-color:rgb(242, 233, 233);
+    box-shadow: 10px 10px 12px 15px rgb(247, 245, 245);
+    margin: 30px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.case3{
+    float: left;
+    height: 300px;
+    width: 23%;
+    background-color: rgb(242, 233, 233);
+    box-shadow: 10px 10px 12px 15px rgb(247, 245, 245) ;
+    margin: 30px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+
+
+
